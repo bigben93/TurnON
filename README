@@ -1,0 +1,22 @@
+TurnON is project easy to use switch controlled from computer. With TurnON you can enable or disable various devices connected to an electrical outlet.
+For example you can disable lamp without leaving your computer :D
+
+
+DEVELOPER IS NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY DEVICE OR SOFTWARE
+
+
+TurnON based on ATTiny2313. Software for PC work with Windows and Linux (for MacOSX port I need testers). 
+To run program you need:
+-Python 2.7 http://www.python.org/
+-PyGTK 2.24 http://www.pygtk.org/
+-PySerial http://pyserial.sourceforge.net/
+
+To run program under Windows you must click on TurnON.py file.
+
+If you want run program under Linux with GUI:
+./TurnON.py -gui
+For more optins under Linux type ./TurnON.py --help
+
+If you have some questions or issues please write to me: alacki93@gmail.com
+
+Artur "BigBen" Łącki
