@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1305414133 source:/home/artur/programowanie/avr/sterownik_firmware/relay_card/main.c
+	<avr/io.h>
+	<util/delay.h>
+	"config.h"
+
+1305328304 /home/artur/programowanie/avr/sterownik_firmware/relay_card/config.h
+
