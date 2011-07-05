@@ -1,0 +1,5 @@
+5th July 2011
+======================
+*Fixes problem with runnig GUI on Windows
+*Added run file for Windows. Now app should be loaded form "TurnON_window.pyw" file
+
